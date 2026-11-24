@@ -1,0 +1,14 @@
+# build output
+build/
+
+# local dependency jars - run fetch-deps.ps1 to download them
+lib/
+
+# verification tooling jars (ASM) - also fetched by fetch-deps.ps1
+tools/*.jar
+
+# scratch
+*.log
+*.tmp
+.DS_Store
+Thumbs.db

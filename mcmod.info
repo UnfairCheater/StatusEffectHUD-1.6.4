@@ -1,0 +1,20 @@
+[
+{
+    "modid": "StatusEffectHUD",
+    "name": "StatusEffectHUD",
+    "description": "Shows active player effects (potions, etc) without opening your inventory!\n1.6.4 backport of the 1.7.10 release, with a full in-game config screen.\nedit by yuzhipang&deepseek",
+    "version": "v1.27.1(1.6.4)",
+    "mcversion": "1.6.4",
+    "url": "http://www.minecraftforum.net/topic/1114612-",
+    "updateUrl": "",
+    "authorList": [ "bspkrs", "yuzhipang", "deepseek" ],
+    "credits": "Original mod by bspkrs. 1.7.10 -> 1.6.4 backport and in-game config screen: edit by yuzhipang&deepseek.",
+    "logoFile": "",
+    "screenshots": [  ],
+    "parent": "",
+    "requiredMods": [  ],
+    "dependencies": [  ],
+    "dependants": [  ],
+    "useDependencyInformation": "true"
+}
+]
